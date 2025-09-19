@@ -11,19 +11,19 @@ The database is built in PostgreSQL and consists of 3 main tables:
 ✅ Customers → customer details (name, city, country)  
 ✅ Orders → transactional data (order date, quantity, total amount)  
 
-➡ Result: a clean, relational database ready for SQL queries and analysis.
+➡ Result: a clean, relational database ready for SQL queries and analysis.  
 
-📌 Project Features
+📌 Project Features  
 
-✅ Relational Schema → 3 connected tables (Books, Customers, Orders)
-✅ SQL Queries → from beginner-friendly to advanced analytics
-✅ Aggregations → SUM, COUNT, AVG for business KPIs
-✅ Joins → combining data across multiple tables
-✅ Filtering & Sorting → business-ready insights
-✅ Business Scenarios → sales trends, customer behavior, inventory tracking
+✅ Relational Schema → 3 connected tables (Books, Customers, Orders)  
+✅ SQL Queries → from beginner-friendly to advanced analytics  
+✅ Aggregations → SUM, COUNT, AVG for business KPIs  
+✅ Joins → combining data across multiple tables  
+✅ Filtering & Sorting → business-ready insights  
+✅ Business Scenarios → sales trends, customer behavior, inventory tracking  
 
-## 🧠 Skills Demonstrated
-✔ SQL querying & filtering  
+## 🧠 Skills Demonstrated  
+✔ SQL querying & filtering    
 ✔ Aggregation and grouping  
 ✔ Joins across multiple tables  
 ✔ Handling NULL values with COALESCE  
