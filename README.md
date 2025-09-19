@@ -7,9 +7,9 @@ It demonstrates the full workflow of a data analyst – from database design and
 
 The database is built in PostgreSQL and consists of 3 main tables:
 
-✅ Books → book details (title, author, genre, price, stock)
-✅ Customers → customer details (name, city, country)
-✅ Orders → transactional data (order date, quantity, total amount)
+✅ Books → book details (title, author, genre, price, stock)  
+✅ Customers → customer details (name, city, country)  
+✅ Orders → transactional data (order date, quantity, total amount)  
 
 ➡ Result: a clean, relational database ready for SQL queries and analysis.
 
