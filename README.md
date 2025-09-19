@@ -30,11 +30,11 @@ The database is built in PostgreSQL and consists of 3 main tables:
 ✔ Business-oriented analysis (top customers, best-selling books, revenue tracking)  
 💼 Business Value
 
-✔ Identify top customers
-✔ Compare revenue across cities and countries
-✔ Monitor inventory levels and remaining stock
-✔ Track best-selling genres and authors
-✔ Enable data-driven bookstore decisions
+✔ Identify top customers  
+✔ Compare revenue across cities and countries  
+✔ Monitor inventory levels and remaining stock  
+✔ Track best-selling genres and authors  
+✔ Enable data-driven bookstore decisions  
 
 ## 🔍 SQL Analysis Tasks
 
